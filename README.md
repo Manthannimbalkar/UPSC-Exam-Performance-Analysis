@@ -19,3 +19,7 @@ Developed a Proof of Concept (POC) to analyze student performance across multipl
 🚀 Impact:
 
 This analysis offers valuable insights for creating tailored learning strategies and enhancing exam preparation techniques, ultimately aimed at improving students' performance based on their strengths and weaknesses.
+
+Tags
+
+UPSC MCQ Analysis Student Performance Power BI Data Visualization Education Analytics Interactive Dashboards Online Exams Performance Trends Exam Strategies MPSC
