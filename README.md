@@ -1,25 +1,56 @@
 POC for Analytics of UPSC MCQ Answers
 
-Jul 2023 - Sep 2023
-Associated with ProNeta Tech (OPC) Pvt Ltd
-📊 Project Overview:
+📊 Overview:
 
-Developed a Proof of Concept (POC) to analyze student performance across multiple online exams, focusing on UPSC MCQ answers. This project aimed to identify trends and patterns between students' academic backgrounds and their subject-wise exam performance.
+This project involved creating a dummy dataset to analyze student performance across multiple online exams. The primary objective was to uncover trends and relationships between students' academic streams and their subject-wise performance in UPSC MCQ exams.
+
 🎯 Key Insights:
 
-    Stream vs. Subject Performance: Analyzed how students’ academic streams (e.g., engineering, arts) influenced their performance in different subjects. For example, engineering students excelled in technical subjects but struggled with subjects like history and geography in initial assessments.
-    Performance Trends: Tracked the performance improvement over multiple exams, uncovering factors contributing to subject-specific strengths and weaknesses.
+Stream vs. Subject Performance:
+
+Highlighted how students' academic streams influenced their performance in specific subjects.
+
+For instance, engineering students excelled in science but faced challenges in subjects like history and geography during the initial exams.
+
+Performance Trends:
+
+Tracked improvement patterns across multiple exams.
+
+Explored factors contributing to subject-specific strengths or weaknesses, helping design strategies for better outcomes.
 
 🛠 Tools & Techniques:
 
-    Data Preparation: Utilized Python to generate a realistic dummy dataset for analysis.
-    Analysis & Visualization: Leveraged Pandas, Matplotlib, and Seaborn for pattern discovery and visual representation of results.
-    Insights Presentation: Shared findings through actionable visualizations and dashboards, helping to design personalized learning and exam strategies.
+Data Preparation:
+
+Used Python to create a realistic dummy dataset for the analysis.
+
+Analysis & Visualization:
+
+Leveraged Pandas, Matplotlib, and Seaborn to uncover patterns and visualize relationships in the data.
+
+Insights Presentation:
+
+Designed actionable visualizations and dashboards to communicate findings effectively.
 
 🚀 Impact:
 
-This analysis offers valuable insights for creating tailored learning strategies and enhancing exam preparation techniques, ultimately aimed at improving students' performance based on their strengths and weaknesses.
+The analysis provided valuable insights for designing personalized learning plans and improving exam strategies. These insights were tailored to students' strengths and weaknesses, helping to:
 
-Tags
+Enhance academic performance.
 
-UPSC MCQ Analysis Student Performance Power BI Data Visualization Education Analytics Interactive Dashboards Online Exams Performance Trends Exam Strategies MPSC
+Improve preparation techniques for UPSC exams.
+
+Foster a better understanding of subject-specific challenges.
+
+🏆 Skills Demonstrated:
+
+Tools:
+
+Python (Pandas, Matplotlib, Seaborn)
+
+Microsoft Power BI
+Microsoft Excel
+Key Competencies:
+Data Analysis
+Data Visualization
+Dashboard Design
